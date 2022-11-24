@@ -26,7 +26,7 @@ public class FirstTestNG {
 		Thread.sleep(2000);
 		
 		
-		
+		//this is closing the browser.
 		driver.close();
 	}
 
